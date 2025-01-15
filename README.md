@@ -21,7 +21,7 @@ Most classes will have good results with high confidence values, stage 4 is diff
     3. Run cells by selecting run all at the top or selecting individual cells and pressing shift+enter
     4. Csv counts and confidence values csv files will be output in the directory and will be replaced with every run. Make sure to download them each time after running counting
 
-# for deployement
+# for deployment
 -make sure she can see and select environment
 -generate .requirements file
 -adjust file paths for her workspace
