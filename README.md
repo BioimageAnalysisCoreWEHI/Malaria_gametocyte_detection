@@ -11,7 +11,8 @@ run_counts_predictions.ipynb is for running counting and prediction of new image
     -stage 3
     -stage 4
     -stage 5
-    -debris 
+    -debris
+    -irregular
 
 Most classes will have good results with high confidence values, stage 4 is difficult and ambiguous but results should be around ~60% accurate
     
